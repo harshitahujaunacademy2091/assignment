@@ -1,0 +1,6 @@
+{
+  "name": "XKCD comics mailer",
+  "description": "a application for mailing XKCD comics in every five minutes",
+  "repository": "https://github.com/rtlearn/php-webmasters973",
+  "addons": []
+}
